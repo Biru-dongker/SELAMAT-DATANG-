@@ -1,2 +1,1 @@
- #biru-dongker
-selamat datang di cloud kami
+SELAMAT DATANG DI CLOUD KAMI
